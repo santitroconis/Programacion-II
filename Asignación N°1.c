@@ -1,9 +1,9 @@
-// Programación II      // Santiago Troconis
-// Asignacion N1        // C.I: 30.605.144
+// ProgramaciÃ³n II      // Santiago Troconis
+// Asignacion N1        
 
-/*Hacer un programa que pida dos matrices del mismo tamaño y que luego las sume. el programa debe ser capaz de
-mostrar el resultado por consola (tener cuidado con las validaciones de los números de filas y columnas de la
-segunda matriz… es decir el número de filas y columnas de la segunda matriz debe des igual a los de la primera matriz).*/
+/*Hacer un programa que pida dos matrices del mismo tamaÃ±o y que luego las sume. el programa debe ser capaz de
+mostrar el resultado por consola (tener cuidado con las validaciones de los nÃºmeros de filas y columnas de la
+segunda matrizâ€¦ es decir el nÃºmero de filas y columnas de la segunda matriz debe des igual a los de la primera matriz).*/
 
 #include<stdio.h>
 #include<conio.h>
